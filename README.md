@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="Content-Language" content="pt-br">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>iTseg Macaé</title>
+<title>iTseg Macae</title>
 </head>
 
 <body>
